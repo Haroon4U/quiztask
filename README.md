@@ -1,2 +1,0 @@
-# quiztask
-Laravel

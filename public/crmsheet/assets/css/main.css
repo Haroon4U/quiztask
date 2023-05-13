@@ -1,0 +1,108 @@
+
+.bg-primary-gradient {
+    background-image: linear-gradient(270deg,#0db2de 0,#005bea)!important
+}
+
+.bg-danger-gradient {
+    background-image: linear-gradient(45deg,#f93a5a,#f7778c)!important
+}
+
+.bg-success-gradient {
+    background-image: linear-gradient(270deg,#48d6a8 0,#029666)!important
+}
+
+.bg-warning-gradient {
+    background-image: linear-gradient(270deg,#efa65f,#f76a2d)!important
+}
+
+.bg-purple-gradient {
+    background-image: linear-gradient(90deg,#673ab7 0,#ba7bfb)!important
+}
+
+.bg-info-gradient {
+    background-image: linear-gradient(90deg,#0296ce 0,#38c6f7)!important
+}
+
+.bg-secondary-gradient {
+    background-image: linear-gradient(90deg,#636f8e 0,#acb8da)!important
+}
+
+.bg-pink-gradient {
+    background-image: linear-gradient(90deg,#f10075 0,#f36eae)!important
+}
+
+.bg-purple-gradient {
+    background-image: linear-gradient(90deg,#673ab7 0,#884af1)!important
+}
+
+.bg-teal-gradient {
+    background-image: linear-gradient(90deg,#0cc 0,#96e8e8)!important
+}
+
+.tx-10 {
+    font-size: 10px
+}
+
+.tx-10-f {
+    font-size: 10px!important
+}
+
+.tx-11 {
+    font-size: 11px
+}
+
+.tx-11-f {
+    font-size: 11px!important
+}
+
+.tx-12 {
+    font-size: 12px
+}
+
+.tx-12-f {
+    font-size: 12px!important
+}
+
+.tx-13 {
+    font-size: 13px
+}
+
+.tx-13-f {
+    font-size: 13px!important
+}
+
+.tx-14 {
+    font-size: 14px
+}
+
+.tx-14-f {
+    font-size: 14px!important
+}
+
+.tx-15 {
+    font-size: 15px
+}
+
+.tx-15-f {
+    font-size: 15px!important
+}
+
+.tx-16 {
+    font-size: 16px
+}
+
+.tx-16-f {
+    font-size: 16px!important
+}
+
+.tx-17 {
+    font-size: 17px
+}
+
+.tx-18 {
+    font-size: 18px
+}
+
+.tx-18-f {
+    font-size: 18px!important
+}
