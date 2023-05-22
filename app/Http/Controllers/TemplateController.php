@@ -21,6 +21,7 @@ class TemplateController extends Controller
      */
     public function index()
     {
+        // return;
         return view('login');
     }
 
